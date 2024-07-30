@@ -1,3 +1,3 @@
-const baseUrl = "https://bookestate-azure-app.azurewebsites.net";
+const baseUrl = "https://bookestate-api.onrender.com";
 
 export default baseUrl;
