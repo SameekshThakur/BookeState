@@ -1,3 +1,3 @@
-const baseUrl = "http://localhost:3001";
+const baseUrl = "https://booke-state-backend.vercel.app/";
 
 export default baseUrl;
